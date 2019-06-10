@@ -1,0 +1,52 @@
+div {
+	width:700px;
+	margin:20px auto
+
+
+	}
+
+
+h1 {text-align: center;
+
+}
+
+h2 {text-align: center;
+  
+}
+body {
+	text-align: center;
+  color: rgb(22, 22, 22);    
+	  
+	background-image: url(wmp.jpg);
+
+	font-family: Courier, monospace;
+	font-size: 15px;
+	line-height: 2
+	font-weight: lighter;
+	text-justify:center;
+
+padding: 30px;                             
+border-radius: 4px;                        
+box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+	
+}
+
+h3 {
+	text-align: center;
+
+}
+
+h1,h2,h3 {
+	font-family: Courier
+	font-size: 15px;
+	background-color: rgba(255,165,0,.15);                        
+padding: 30px;                             
+border-radius: 4px;                       
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	}
+
+	li {
+    list-style-type: none;
+    text-align: center;
+}
+
